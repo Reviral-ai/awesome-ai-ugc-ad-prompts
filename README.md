@@ -1,5 +1,6 @@
 # AI UGC Ad Prompts: 15 Fill-in Templates for Creator-Style Video Ads
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 AI UGC ad generation is a production workflow rather than one model: a creator-style scene may combine generated video, product references, a speaking avatar or voice, captions, and ordinary editing. Claims, permissions, disclosures, and product fidelity still require human review.
 
 > Useful AI UGC ad templates specify a believable creator, filming context, product interaction, spoken hook, proof mechanism, and next step. Replace every bracket with facts you are authorized to advertise; these are fill-in templates, not finished claims.
